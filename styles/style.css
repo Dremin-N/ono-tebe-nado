@@ -8,7 +8,8 @@
 }
 
 .header__menu {
-  padding-left: 26px;
+  padding-left: 27px;
+  padding-top: 3px;
   font-weight: 400;
   font-size: 18px;
   text-underline-offset: 4px;
@@ -265,6 +266,7 @@
   font-weight: 700;
   font-size: 40px;
   text-transform: uppercase;
+  padding-top: 5px;
 }
 
 .about__text {
