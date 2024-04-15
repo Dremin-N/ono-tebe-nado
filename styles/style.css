@@ -9,7 +9,7 @@
 
 .header__menu {
   padding-left: 27px;
-  padding-top: 3px;
+  padding-top: 3pxgi;
   font-weight: 400;
   font-size: 18px;
   text-underline-offset: 4px;
@@ -266,7 +266,7 @@
   font-weight: 700;
   font-size: 40px;
   text-transform: uppercase;
-  padding-top: 5px;
+  padding-top: 10px;
 }
 
 .about__text {
@@ -321,4 +321,17 @@
   text-decoration: none;
 }
 
-/*  do repository public */
+.ltr-spacing2 {
+  letter-spacing: 0.02em;
+}
+
+.ltr-spacing1 {
+  letter-spacing: 0.01em;
+}
+
+.ltr-spacing-1 {
+  letter-spacing: -0.01em;
+}
+.ltr-spacing3 {
+  letter-spacing: 0.03em;
+}
